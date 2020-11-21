@@ -1,6 +1,6 @@
 # CCC
-Q.1
-Binary Flips
+## Q.1
+## Binary Flips
 A Onely sequence is a sequence consisting of 1 only.
 
 For example : {1,1,1,1} is a onely sequence while {1,2,1} is not.
